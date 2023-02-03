@@ -1,4 +1,4 @@
-# README has been changed again... now twice actually
+# README has been changed again
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
